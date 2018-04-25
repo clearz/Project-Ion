@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StretchyBuffers", "StretchyBuffers\StretchyBuffers.vcxproj", "{A3D16052-0CFD-417B-ACD8-A394644F7691}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2", "Chapter2\Chapter2.vcxproj", "{DEA19E82-7A91-4778-A6EB-E057B138B743}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A3D16052-0CFD-417B-ACD8-A394644F7691}.Release|x64.Build.0 = Release|x64
 		{A3D16052-0CFD-417B-ACD8-A394644F7691}.Release|x86.ActiveCfg = Release|Win32
 		{A3D16052-0CFD-417B-ACD8-A394644F7691}.Release|x86.Build.0 = Release|Win32
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Debug|x64.ActiveCfg = Debug|x64
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Debug|x64.Build.0 = Debug|x64
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Debug|x86.Build.0 = Debug|Win32
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x64.ActiveCfg = Release|x64
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x64.Build.0 = Release|x64
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x86.ActiveCfg = Release|Win32
+		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
