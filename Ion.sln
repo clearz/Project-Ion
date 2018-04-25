@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StretchyBuffers", "Stretchy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2", "Chapter2\Chapter2.vcxproj", "{DEA19E82-7A91-4778-A6EB-E057B138B743}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter3", "Chapter3\Chapter3.vcxproj", "{30234953-AB99-4F56-93DA-67D2E0A3C546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x64.Build.0 = Release|x64
 		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x86.ActiveCfg = Release|Win32
 		{DEA19E82-7A91-4778-A6EB-E057B138B743}.Release|x86.Build.0 = Release|Win32
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Debug|x64.ActiveCfg = Debug|x64
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Debug|x64.Build.0 = Debug|x64
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Debug|x86.ActiveCfg = Debug|Win32
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Debug|x86.Build.0 = Debug|Win32
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Release|x64.ActiveCfg = Release|x64
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Release|x64.Build.0 = Release|x64
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Release|x86.ActiveCfg = Release|Win32
+		{30234953-AB99-4F56-93DA-67D2E0A3C546}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
