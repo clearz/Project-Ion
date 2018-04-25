@@ -8,7 +8,7 @@ Bitwise is a free educational project about building the software and hardware s
 
 By watching daily or bidaily streams on Twitch, uploaded later as videos to YouTube, reading blog posts and articles, and studying code pushed daily to GitHub, you will get to watch over my shoulder as I build the system from scratch, starting with an empty source control repository, and you will learn how everything works so you can build it yourself too. Most code will be written off stream, but every new line of code will be covered during code reviews at the beginning of each stream.
 
-Twitch: https://twitch.tv/pervognsen
-YouTube: https://www.youtube.com/pervognsen
-GitHub: https://github.com/pervognsen/bitwise
-Discord: https://discord.gg/7TSA6ZF
+* Twitch: https://twitch.tv/pervognsen
+* YouTube: https://www.youtube.com/pervognsen
+* GitHub: https://github.com/pervognsen/bitwise
+* Discord: https://discord.gg/7TSA6ZF
