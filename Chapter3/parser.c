@@ -193,7 +193,7 @@ void next_token() {
 			stream++;
 		}while(*stream == TOKEN_SPACE);
 		next_token();
-		break;
+		return;
 	case '0':
 	case '1':
 	case '2':
